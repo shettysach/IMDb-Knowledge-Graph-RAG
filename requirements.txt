@@ -1,0 +1,12 @@
+notebook
+nb_conda_kernels
+#jupyterlab_vim
+
+polars
+python-dotenv
+neo4j-python-driver
+
+langchain
+langchain-core
+langchain-community
+langchain-google-genai
