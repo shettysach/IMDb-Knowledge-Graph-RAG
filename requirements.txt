@@ -1,6 +1,6 @@
+ipython
 notebook
 nb_conda_kernels
-#jupyterlab_vim
 
 polars
 python-dotenv
