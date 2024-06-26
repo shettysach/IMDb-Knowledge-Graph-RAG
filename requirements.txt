@@ -83,7 +83,6 @@ importlib_resources=6.4.0=pyhd8ed1ab_0
 ipykernel=6.29.4=pyh3099207_0
 ipython=8.25.0=py310h06a4308_0
 ipywidgets=8.1.3=pyhd8ed1ab_0
-isodate=0.6.1=pypi_0
 isoduration=20.11.0=pyhd8ed1ab_0
 jedi=0.19.1=pyhd8ed1ab_0
 jedi-language-server=0.41.4=pyhd8ed1ab_0
@@ -167,7 +166,6 @@ nbformat=5.10.4=pyhd8ed1ab_0
 ncurses=6.4=h6a678d5_0
 neo4j-python-driver=5.21.0=pyhd8ed1ab_0
 nest-asyncio=1.6.0=pyhd8ed1ab_0
-networkx=3.3=pypi_0
 notebook=7.2.1=pyhd8ed1ab_0
 notebook-shim=0.2.4=pyhd8ed1ab_0
 numpy=1.26.4=py310hb13e2d6_0
@@ -219,7 +217,6 @@ pytz=2024.1=pyhd8ed1ab_0
 pyu2f=0.1.5=pyhd8ed1ab_0
 pyyaml=6.0.1=py310h2372a71_1
 pyzmq=25.1.2=py310h6a678d5_0
-rdflib=7.0.0=pypi_0
 re2=2022.04.01=h27087fc_0
 readline=8.2=h5eee18b_0
 referencing=0.35.1=pyhd8ed1ab_0

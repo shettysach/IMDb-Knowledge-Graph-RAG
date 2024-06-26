@@ -3,7 +3,7 @@
 
 <div align="center">
     <img src="./assets/nwgraph.png" align="center" height="60%" width="60%">
-    <p> Click and zoom in to see details.</p>
+    <h6> Click and zoom in to see nodes and relationships.</h6>
 </div>
 
 - Neo4j database stores the network graph.
@@ -28,13 +28,13 @@
 - Create a virtual environment with Python version 3.10.14, install the requirements from `requirements.txt`.
     For Conda,
     ```
-    $ conda create --name <env> --file ./requirements.txt
+    $ conda create -c conda-forge --name <env> --file requirements.txt
     ```
 - Recommended - Create new Neo4j database. ([for Community edition](https://stackoverflow.com/a/62564995))
 - Start the Neo4j server.
 - Fill in Neo4j credentials and Gemini API key in `.env_template` and rename to `.env`.
-- First create the network graph by running the Jupyter notebook `./src/Knowledge_Graph.ipynb`.
-- Run the Jupyter notebook `./src/Graph_RAG.ipynb.ipynb`
+- First create the network graph by running the Jupyter Notebook `./src/Knowledge_Graph.ipynb`.
+- Run the Jupyter Notebook `./src/Graph_RAG.ipynb`.
 - Run the Streamlit web app by running
     ```
     streamlit run ./src/App.py
